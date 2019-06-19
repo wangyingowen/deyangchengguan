@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@mipmap/loading"
+    >
+
+    <ImageView
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/im1"
+        android:layout_marginTop="150dp"
+        android:background="@mipmap/newlogo"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#FFF"
+        android:layout_below="@+id/im1"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        android:text="德阳城管"
+        android:textSize="20sp"/>
+
+    <TextView android:id="@+id/tv_home"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#FFF"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="100dp"
+        android:layout_centerHorizontal="true"
+        android:text="成都拾贝科技有限公司"
+        android:textSize="12sp"/>
+
+
+
+
+
+
+</RelativeLayout>

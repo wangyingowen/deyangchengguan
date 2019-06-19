@@ -1,0 +1,90 @@
+<resources>
+  <string name="pull_to_refresh_pull_label">向下拉动可以刷新</string>
+  <string name="pull_to_refresh_release_label">松开可以刷新</string>
+  <string name="pull_to_refresh_refreshing_label">加载中…</string>
+  <string name="pull_to_refresh_from_bottom_pull_label">@string/pull_to_refresh_pull_label</string>
+  <string name="pull_to_refresh_from_bottom_release_label">@string/pull_to_refresh_release_label</string>
+  <string name="pull_to_refresh_from_bottom_refreshing_label">@string/pull_to_refresh_refreshing_label</string>
+  <string name="app_name">德阳城管</string>
+  <string name="username">用户名称</string>
+  <string name="home_ssxz">所属乡镇:xx乡</string>
+  <string name="home_rybh">编号:xxxxxxxxxx</string>
+  <string name="home_bmmc">部门:xx部门</string>
+  <string name="home_gxqy">管辖区域:xxxx区域</string>
+  <string name="home_cygn">常用功能</string>
+  <string name="home_dbsx">待办事项</string>
+  <string name="home_sjcj">事件采集</string>
+  <string name="home_wdrw">我的任务</string>
+  <string name="home_ribao">日报</string>
+  <string name="home_qiandao">签到</string>
+  <string name="home_zygn">采集功能</string>
+  <string name="home_jcxxgl">基础信息采集</string>
+  <string name="home_ryxx">人口信息</string>
+  <string name="home_fwxx">房屋信息</string>
+  <string name="home_dwxx">单位信息</string>
+  <string name="home_zzxx">组织信息</string>
+  <string name="home_cljqcy">加油站    </string>
+  <string name="home_sjgl">事件管理</string>
+  <string name="home_sjlr">事件录入</string>
+  <string name="home_jrgz">今日工作</string>
+  <string name="home_sysj">所有事件</string>
+  <string name="home_zfxcgl">走访巡查管理</string>
+  <string name="home_syrw">所有任务</string>
+  <string name="login">登录</string>
+  <string name="surelogin">确定登录</string>
+  <string name="login_username">用户名</string>
+  <string name="login_psw">密码</string>
+  <string name="login_inputusername">请输入用户名</string>
+  <string name="login_inputpsw">请输入密码</string>
+  <string name="login_title">仲巴综合管理</string>
+  <string name="title_activity_login">仲巴综合管理</string>
+  <string name="house_title2">房屋信息</string>
+  <string name="cancle">取消</string>
+  <string name="message_title">消息详情</string>
+  <string name="message_content">各省、自治区、直辖市及计划单列市、新疆生产建设兵团发展改革委、财政厅（局）、住房城乡建设厅，山东省经信委、广东省经信委、重庆市经信委、厦门市经信委、海南省工信厅，北京市市政市容委、上海市绿化市容委、天津市市容园林委、重庆市市政管委，中国国际工程咨询公司、相关“城市矿产”示范基地、园区循环化改造、餐厨废弃物资源化利用试点城市：
+　　为落实国务院“放管服”的工作要求，加强示范试点中后期监管，保障各类循环经济示范试点建设顺利开展，根据《国家“城市矿产”示范基地中期评估及终期验收管理办法》《园区循环化改造示范试点中期评估及终期验收管理办法》《餐厨废弃物资源化利用和无害化处理试点中期评估及终期验收管理办法》规定，国家发展改革委、财政部、住房城乡建设部将对各类循环经济示范试点单位开展2017年下半年事中事后监管工作，现将有关事项通知如下。
+　　一、工作安排
+　　（一）中期评估
+　　1.目的和范围。中期评估以了解、督促示范试点单位建设，确保实施方案目标按期完成为目的，对实施方案建设进展情况、目标完成情况、重点工作推进情况、补助资金使用情况、保障措施执行情况，取得的经验和面临的问题，以及按期完成建设目标的能力进行全面评估。
+　　中期评估的对象是实施方案获批复满3年的“城市矿产”示范基地、园区循环化改造、餐厨废弃物资源化利用试点城市。
+　　2.程序。各省级循环经济综合管理部门、财政部门、住房城乡建设（市容环卫）部门对本区域循环经济试点示范开展预评估（住房城乡建设（市容环卫）部门仅参与餐厨废弃物资源化利用试点城市评估工作），并将评估结果及证明材料于10月25日前，上报国家发展改革委、财政部、住房城乡建设部。省级循环经济综合管理部门、财政部门、住房城乡建设（市容环卫）部门对上报材料真实性负责。国家发展改革委、财政部、住房城乡建设部对预评估情况进行整理汇总，委托第三方机构对书面材料进行评估，并根据书面评估情况开展现场抽查。
+　　3.结果。中期评估结果分为通过、原则通过和不通过。国家发展改革委、财政部、住房城乡建设部根据书面评估和现场抽查情况确定中期评估等级。未通过中期评估的单位取消示范试点称号，全额扣回中央财政补助资金；原则通过的单位限时整改，上报整改报告，国家发展改革委、财政部、住房城乡建设部视情况抽查。
+　　（二）方案调整
+　　1.范围。尚未调整实施方案的国家“城市矿产”示范基地、园区循环化改造、餐厨废弃物资源化利用试点城市，可根据实际需要申请调整一次方案。
+　　2.程序。各示范单位如需调整方案，须于10月20日前，将调整方案申请上报省级循环经济综合管理部门、财政部门（餐厨废弃物资源化利用试点城市同时报住房城乡建设（市容环卫）部门）。省级循环经济综合管理部门、财政部门、住房城乡建设（市容环卫）部门对方案调整合理性进行评估，提出调整意见，于10月25日前上报国家发展改革委、财政部、住房城乡建设部。逾期未上报的不予受理。国家发展改革委、财政部、住房城乡建设部委托第三方机构组织专家对方案调整的合理性进行评估，并对方案调整单位进行现场抽查；第三方机构根据评估和抽查结果出具评估报告；三部委根据评估报告结果批复方案调整意见。
+　　3.结果。方案调整意见分为同意和不同意。获批复同意方案调整的单位，以批复调整的实施方案为中期评估和终期验收依据；未获批复同意方案调整的单位，以原批复的实施方案为中期评估和终期验收依据。
+　　（三）方案验收
+　　1.范围。2013年之前获批复开展建设并获批复延期至2017年验收的国家“城市矿产”示范基地、园区循环化改造、餐厨废弃物资源化利用试点城市。
+　　2.程序。各省级循环经济综合管理部门、财政部门、住房城乡建设（市容环卫）部门对本区域循环经济试点示范开展预验收（住房城乡建设（市容环卫）部门仅参与餐厨废弃物资源化利用试点城市评估工作），并将验收结果及证明材料于10月25日前，上报国家发展改革委、财政部、住房城乡建设部，逾期未上报的按不通过评估处理。省级循环经济综合管理部门、财政部门、住房城乡建设（市容环卫）部门对上报材料真实性负责。国家发展改革委、财政部、住房城乡建设部对预验收情况进行整理汇总，委托第三方机构对书面材料进行审核，并根据书面审核情况开展现场抽查。
+　　3.结果。验收分为通过和不通过。对于通过验收的示范单位，国家发展改革委、财政部、住房城乡建设部批复确认，并适时拨付剩余财政补助资金；对于未通过验收的单位，取消示范称号，全额扣回中央财政补助资金。
+　　二、相关要求
+　　各省级循环经济综合管理部门、财政部门、住房城乡建设（市容环卫）部门要抓紧开展评估、考核、验收工作，召开专家论证会，并赴现场评估和验收；摸清示范单位建设情况，在上报文件中对示范单位建设情况作出公正评价；审核相关申报材料，确保证明文件真实、全面；对预验收通过的示范单位，提出拨付剩余财政资金额度建议，并说明理由。
+　　评估、考核、验收工作要严格遵守中央“八项规定”，保证廉洁公正。
+
+国家发展改革委办公厅
+财政部办公厅
+住房城乡建设部办公厅
+2017年9月25日</string>
+
+  <string name="viewpager_indicator">%1$d/%2$d</string>
+  <string name="idcard_name">Idt-Unify二代证读取</string>
+  <string name="idcard_scan">二代证扫描测试</string>
+  <string name="idcard_finger_keys_read">指纹认证码测试</string>
+  <string name="main_idcard_info">二代证读取</string>
+  <string name="idcard_info_warning">该人员为获罪嫌疑人</string>
+  <string name="idcard_info_name">姓 名</string>
+  <string name="idcard_info_sex">性 别</string>
+  <string name="idcard_info_nation">民 族</string>
+  <string name="idcard_info_birthday">生 日</string>
+  <string name="idcard_info_address">住 址</string>
+  <string name="idcard_info_num">身份证号</string>
+  <string name="idcard_info_department">签发机关</string>
+  <string name="idcard_info_date">有效期限</string>
+  <string name="idcard_info_fingers">指纹</string>
+  <string name="idcard_scan_guid">设备连接成功，请将二代证靠近感应区\n读取信息</string>
+  <string name="adapter_no_net">Ops 网络丢失了！</string>
+  <string name="adapter_no_data">暂无内容～</string>
+  <string name="reload">重新加载</string>
+  <string name="loading">正在加载</string>
+  <string name="load_all_data">已加载全部数据</string>
+</resources>

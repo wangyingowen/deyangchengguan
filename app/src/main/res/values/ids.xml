@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="id_tag_autolayout_size" type="id"></item>
+    <item name="id_tag_autolayout_padding" type="id"></item>
+    <item name="id_tag_autolayout_margin" type="id"></item>
+
+    <item name="listView" type="id"></item>
+    <item name="gridView" type="id"></item>
+    <item name="recycleView" type="id"></item>
+    <item name="scrollView" type="id"></item>
+    <item name="refreshView" type="id"></item>
+    <item name="layout" type="id"></item>
+    <item name="topView" type="id"></item>
+    <item name="errorView" type="id"></item>
+
+    <item type="id" name="statusbarutil_fake_status_bar_view" />
+    <item type="id" name="statusbarutil_translucent_view" />
+    <item name="dialog_submit_tv" type="id"/>
+    <item name="dialog_cancel_tv" type="id"/>
+    <item name="dialog_title_tv" type="id"/>
+    <item name="dialog_layout" type="id"/>
+    <item name="dialog_msg_tv" type="id"/>
+    <item name="login_submit_tv" type="id"/>
+    <item name="login_pwd_et" type="id"/>
+    <item name="login_account_et" type="id"/>
+    <!-- 原始textview -->
+    <item name="id_source_textview" type="id"></item>
+    <!-- 收起展开按钮textview -->
+    <item name="id_expand_textview" type="id"></item>
+</resources>
